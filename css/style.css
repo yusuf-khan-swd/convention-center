@@ -4,3 +4,21 @@
 body {
   font-family: "Poppins", sans-serif;
 }
+
+.btn-background {
+  background: rgba(244, 150, 210, 0.1);
+}
+
+.card-custom-style {
+  max-width: 280px;
+}
+
+.fa-circle-check {
+  color: rgba(81, 66, 194, 0.5);
+  font-size: 20px;
+}
+
+.badge {
+  top: 2px;
+  left: 80%;
+}
